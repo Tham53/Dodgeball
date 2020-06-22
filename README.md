@@ -13,7 +13,7 @@ Step 4. Create button for "Make Player" that moves player to Dodgeball players l
 andand adds new value of "player" while simultaneously removing from previous list.
 
 Step 5. Create red button for red team and blue button for blue team, 
-that also removes them from listOfPlayers array.
+that also removes them from players list array.
 
 Step 6. When people are assigned they should have their team color and mascot.
 
