@@ -1,3 +1,6 @@
+//ACA student
+//https://github.com/Tham53
+
 //Step 1. Have an array of People.
 const arrOfPeople = [
     {
