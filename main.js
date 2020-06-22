@@ -119,7 +119,7 @@ const arrOfPeople = [
     listOfPlayers.push(newPlayer)
 
 //Step 5. Create red button for red team and blue button for blue team,
-//that also removes them from listOfPlayers array.
+//that also removes them from players list array.
     const listElement = document.getElementById('players')
         const li = document.createElement("li")
         redButton = document.createElement("button")
@@ -145,7 +145,7 @@ const arrOfPeople = [
 }; 
 
 //Step 5. Create red button for red team and blue button for blue team,
-//that also removes them from listOfPlayers array. 
+//that also removes them from players list array. 
 const assignBlueTeam = (id) => {
     let person = listOfPlayers.find(function (player) {
     return player.id === id
